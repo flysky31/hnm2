@@ -2,5 +2,5 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-netlify로 배포되었습니다.<
+netlify로 배포되었습니다.<br />
 https://react-htm.netlify.app/
